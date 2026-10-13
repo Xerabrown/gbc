@@ -8,3 +8,4 @@
 [link text](comp1238.md)
 
 [link text](https://github.com/Xerabrown/gbc)
+## Gbc email: micah.brown@georgebrown.ca
