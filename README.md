@@ -7,4 +7,4 @@
 
 [link text](comp1238.md)
 
-[link text] (https://github.com/Xerabrown/gbc)
+[link text](https://github.com/Xerabrown/gbc)
