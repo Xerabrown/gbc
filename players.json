@@ -1,12 +1,1 @@
-[
-    {
-        "name": "LeBron James",
-        "sport": "basketball",
-        "position": "forward",
-        "age": 38,
-        "team": {
-            "name": "Lakers",
-            "city": "Los Angeles"
-        }
-    }
-]
+
